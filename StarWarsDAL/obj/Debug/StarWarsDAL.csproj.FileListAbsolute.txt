@@ -1,2 +1,0 @@
-C:\Users\jduca\source\repos\StarWarsDAL\StarWarsDAL\obj\Debug\StarWarsDAL.csprojAssemblyReference.cache
-C:\Users\jduca\source\repos\StarWarsDAL\StarWarsDAL\obj\Debug\StarWarsDAL.csproj.CoreCompileInputs.cache
